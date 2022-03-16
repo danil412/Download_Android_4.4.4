@@ -1,0 +1,18 @@
+.iksweb2 {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #ff0000;
+  background: #fff;
+  border-radius: 60px;
+  border: 2px solid #0095ff;
+}
+
+.iksweb2:hover {
+  background: #0095ff;
+  color: #ffffff;
+  border: 2px solid #354251;
+  transition: all 0.4s ease;
+}
